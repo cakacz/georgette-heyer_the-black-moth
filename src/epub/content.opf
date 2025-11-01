@@ -44,44 +44,40 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2009115559</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+		<dc:description id="description">An Earl turned highwayman repeatedly foils a rake in his attempted pursuit of a young woman.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;i&gt;The Black Moth&lt;/i&gt; focuses on Lord Jack Carstares, who has retreated from society and become a highwayman after taking the blame for cheating at cards years ago. He meets the heroine, Diana Beauleigh, when he rescues her from an attempted abduction by the Duke of Andover. The novel follows the three throughout their interactions and focuses on questions of love and honour. Published in 1921, &lt;i&gt;The Black Moth&lt;/i&gt; was the first published novel of &lt;a href="https://standardebooks.org/ebooks/georgette-heyer"&gt; Georgette Heyer&lt;/a&gt;, and marks her debut as one of the originators of the modern historical romance. Set in the Georgian period, the novel features many of the elements that are characteristic of Heyer's work including action, romance, and aristocratic characters in a historical setting. </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38703</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<dc:source>https://commons.wikimedia.org/w/index.php?title=File:The_Black_Moth.pdf</dc:source>
+		<meta property="se:word-count">92,811</meta>
+		<meta property="se:reading-ease.flesch">85.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Moth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_the-black-moth</meta>
 		<dc:creator id="author">Georgette Heyer</dc:creator>
 		<meta property="file-as" refines="#author">Heyer, Georgette</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Georgette_Heyer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79135328</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jean François de Troy</dc:contributor>
+		<meta property="file-as" refines="#artist">Troy, Jean François de</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-François_de_Troy</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88132205</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Laura McDonald</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">McDonald, Laura</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-2">Marc D'Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">D'Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">C. Kaczvinsky</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kaczvinsky, C.</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
